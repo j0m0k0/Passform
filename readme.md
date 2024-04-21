@@ -62,7 +62,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [Your Email]()
+Javad Koushyar - [Email](koushyar [at] txstate . edu)
 
 Project Link: [https://github.com/your-github/passform](https://github.com/your-github/passform)
 
@@ -76,5 +76,3 @@ Project Link: [https://github.com/your-github/passform](https://github.com/your-
 - **Configuration**: Points users to further customization options.
 - **Contributing**: Encourages contributions and points to guidelines.
 - **License and Contact**: Standard sections to inform users about the licensing and how to reach out for more information.
-
-Make sure to customize the placeholders (like `your-github`, `your.email@example.com`, and any specific file paths or names) to match your actual project details. This README will help make your repository user-friendly and engaging for potential users and contributors.
