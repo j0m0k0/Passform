@@ -32,7 +32,7 @@ cd passform
 pip install -r requirements.txt
 ```
 
-## Training
+## Model Training
 
 If you are interested in training the model by yourself or use your own dataset, you can use the [Passform Jupyter](https://github.com/j0m0k0/passform/blob/main/passform.ipynb) and align it with your dataset. Also, the rockyou16k data which is used for training this model is included in the dataset folder of this project. So, if you want to replicate the results, that the dataset you need to use.
 
@@ -62,6 +62,8 @@ You are very welcome to train your own model and used the parameters to adjust t
 
 Adjustable model parameters are `num_layers`, `dropout_rate`, `d_model` and `nhead`  by editing the configuration in `generate_passwords.py`.
 
+## Tutorial
+There is a video tutorial created by the author which you can access here.
 ## Contributing
 
 Contributions to Passform are welcome! Please review the contribution guidelines in `CONTRIBUTING.md` before submitting your pull requests.
