@@ -2,6 +2,9 @@
 
 Welcome to **Passform**, a cutting-edge password generator that leverages Transformer models to integrate learned password patterns with personal information to create robust, personalized password suggestions.
 
+![alt text](images/logo.webp "Passform")
+
+
 ## Overview
 
 Passform is designed to enhance security across digital platforms by generating customized passwords that are not only tough to crack but also easy to recall. It uniquely combines common password patterns and personal user information (like birth year or name) to generate passwords that are both secure and meaningful to the user.
