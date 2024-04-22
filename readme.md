@@ -8,7 +8,7 @@ Welcome to **Passform**, a cutting-edge password generator that leverages Transf
 
 ## Overview
 
-Passform is designed to enhance security across digital platforms by generating customized passwords that are not only tough to crack but also easy to recall. It uniquely combines common password patterns and personal user information (like birth year or name) to generate passwords that are both secure and meaningful to the user.
+Passform is designed to enhance security across digital platforms by generating customized passwords that are not only tough to crack but also easy to recall. It uniquely combines common password patterns to generate passwords that are both secure and meaningful to the user.
 
 ## Features
 
