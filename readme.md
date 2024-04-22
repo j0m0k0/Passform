@@ -22,7 +22,6 @@ Passform is designed to enhance security across digital platforms by generating 
 Passform uses a dual-input Transformer model that includes:
 
 - **Password Encoder**: Processes sequences of passwords to understand and generate base password patterns.
-- **Information Encoder**: Embeds personal information to be seamlessly integrated into the password generation process.
 - **Decoder**: Synthesizes inputs from both encoders to generate the final password output.
 
 ## Installation
@@ -32,6 +31,11 @@ git clone https://github.com/j0m0k0/passform.git
 cd passform
 pip install -r requirements.txt
 ```
+
+## Training
+
+If you are interested in training the model by yourself or use your own dataset, you can use the [Passform Jupyter](https://github.com/j0m0k0/passform/blob/main/passform.ipynb) and align it with your dataset. Also, the rockyou16k data which is used for training this model is included in the dataset folder of this project. So, if you want to replicate the results, that the dataset you need to use.
+
 
 ## Usage
 
