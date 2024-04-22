@@ -14,7 +14,7 @@ Passform is designed to enhance security across digital platforms by generating 
 
 - **Pattern Learning**: Learns complex patterns from a dataset of existing passwords to understand common password structures.
 - **Personalization**: Integrates user-specific information such as names or important dates to customize passwords.
-- **Transformer Model**: Utilizes a dual-input Transformer architecture to process both password patterns and personal information efficiently.
+- **Transformer Model**: Utilizes a Transformer architecture to process both password patterns and personal information efficiently.
 - **Hyperparameter Optimization**: Employs Optuna for robust hyperparameter tuning to optimize model performance.
 
 ## Model Architecture
