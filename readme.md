@@ -82,4 +82,3 @@ Project Link: [https://github.com/your-github/passform](https://github.com/your-
 - **Configuration**: Points users to further customization options.
 - **Contributing**: Encourages contributions and points to guidelines.
 - **License and Contact**: Standard sections to inform users about the licensing and how to reach out for more information.
--
