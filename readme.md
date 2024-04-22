@@ -3,7 +3,7 @@
 Welcome to **Passform**, a cutting-edge password generator that leverages Transformer models to integrate learned password patterns with personal information to create robust, personalized password suggestions.
 
 <p align="center">
-  <img src="images/logo.webp" title="Passform" width="50%" height="300px" />
+  <img src="images/logo.png" title="Passform" width="50%" height="300px" />
 </p>
 
 ## Overview
