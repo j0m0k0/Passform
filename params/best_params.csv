@@ -1,0 +1,2 @@
+lr,num_layers,dropout_rate,model_config
+0.0001865003989550649,4,0.18976240457645926,"(320, 8)"
