@@ -62,7 +62,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Javad Koushyar - [Email](koushyar [at] txstate . edu)
+Javad Koushyar - (koushyar [aatt] txstate [ddoott] edu)
 
 Project Link: [https://github.com/your-github/passform](https://github.com/your-github/passform)
 
