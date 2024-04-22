@@ -19,7 +19,7 @@ Passform is designed to enhance security across digital platforms by generating 
 
 ## Model Architecture
 
-Passform uses a dual-input Transformer model that includes:
+Passform uses a Transformer model that includes:
 
 - **Password Encoder**: Processes sequences of passwords to understand and generate base password patterns.
 - **Decoder**: Synthesizes inputs from both encoders to generate the final password output.
