@@ -54,8 +54,6 @@ python src/generate_passwords.py -c 100 -l 8
 python src/generate_passwords.py -c 100 -l 8 > my_passwords.txt
 ```
 
-This command uses the trained model to generate a password based on the input year "1997" and name "John".
-
 ## Configuration
 
 You are very welcome to train your own model and used the parameters to adjust the model.
