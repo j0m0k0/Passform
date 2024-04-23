@@ -1,5 +1,5 @@
+import argparse
 import ast
-
 import pickle
 import torch
 import torch.nn.functional as F
@@ -75,10 +75,19 @@ def generate_passwords(model, vocab, num_passwords, password_length, device='cpu
 
     return passwords
 
-# Example usage
-model, vocab = load_model_and_vocab('models/passform.model', 'vocab/vocab.pkl')
-generated_passwords = generate_passwords(model, vocab, num_passwords=1000, password_length=8)
+def main():
+    parser = argparse.ArgumentParser(description='Password Generation Script')
+    parser.add_argument('-c', '--num_passwords', type=int, required=True, help='Number of passwords to generate')
+    parser.add_argument('-l', '--password_length', type=int, required=True, help='Length of each password')
+    
+    args = parser.parse_args()
 
-for pwd in generated_passwords:
-    # print(f"Generated Password: {pwd}")
-    print(pwd)
+    # Example usage
+    model, vocab = load_model_and_vocab('models/passform.model', 'vocab/vocab.pkl')
+    generated_passwords = generate_passwords(model, vocab, num_passwords=args.num_passwords, password_length=args.password_length)
+
+    for pwd in generated_passwords:
+        print(pwd)
+
+if __name__ == "__main__":
+    main()
